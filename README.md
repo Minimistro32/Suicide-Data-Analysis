@@ -4,7 +4,7 @@ This data analysis is of the suicide rate overview from 1985 to 2016 found on [k
 
 I'm analyzing this data to answer questions about the relationship between suicide and global circumstances. Another goal was to become familiar with the data processing capabilities of the familiar language Python. The questions analyzed and results are listed below, along with a demo of the code used to analyze the data.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/mU68u_SdTk0)
 
 # Data Analysis Results
 
@@ -33,7 +33,7 @@ Python3, Pandas, and Matplotlib made processing this data and powering the graph
 
 # Useful Websites
 
-This site [Getting started with Data Analysis with Python Pandas](https://towardsdatascience.com/getting-started-to-data-analysis-with-python-pandas-with-titanic-dataset-a195ab043c77) was instrumental in getting off the ground with Data Analytics. However, after grasping the initial concept of data frames, I quickly grew past this resource and continued development with individual searches on [StackOverflow](www.stackoverflow.com).
+[Getting started with Data Analysis with Python Pandas](https://towardsdatascience.com/getting-started-to-data-analysis-with-python-pandas-with-titanic-dataset-a195ab043c77) was instrumental in getting off the ground with Data Analytics. However, after grasping the initial concept of data frames, I quickly grew past this resource and continued development with individual searches on [StackOverflow](www.stackoverflow.com).
 
 # Future Work
 
